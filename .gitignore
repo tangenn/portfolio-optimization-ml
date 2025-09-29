@@ -1,0 +1,28 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment (if using venv)
+venv/
+
+# Ignore data files
+notebooks/data/raw/
+notebooks/data/processed/
+
+# Ignore model files
+models/
+
+# Ignore results (optional, unless you want to commit charts)
+results/
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs
+*.log
+
+# VSCode config (optional)
+.vscode/
