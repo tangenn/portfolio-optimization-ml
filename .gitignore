@@ -9,8 +9,8 @@ __pycache__/
 venv/
 
 # Ignore data files
-notebooks/data/raw/
-notebooks/data/processed/
+notebooks/data/
+
 
 # Ignore model files
 models/
